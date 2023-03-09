@@ -41,4 +41,3 @@ linguagem = input('Qual é a linguagem de programação que você está estudand
 print('A linguagem que você está estudando é:', linguagem)
 
 
-# > Imprimindo variáveis + mais sobre a função print
