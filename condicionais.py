@@ -12,6 +12,7 @@ else:
     imagine que queira imprimmir "Aprovado(a)", caso o estudante tenha uma média
     superior ou igual a 7, e "Reprovado", caso a média seja inferior a 7
 """
+
 """
 elif = else if
 """
@@ -33,5 +34,4 @@ if media >= 7 and presenca >= 70:
 else:
     print('Reprovado(a)')
     print('Tente novamente')
-
 
