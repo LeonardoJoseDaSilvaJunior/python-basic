@@ -17,5 +17,14 @@ while contador < 5:
     print(contador)
 
     contador = contador + 1
+    
+# Exempo 03 While-else
+
+contador02 = 0 
+while (contador02 < 5):
+      print(contador02)
+      contador02 = contador02 + 1
+else:
+      print("O loop while foi encerrado com sucesso!")
 
 
