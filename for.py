@@ -2,7 +2,6 @@
 """for variavel in range(5):
     print(variavel)"""
 
-
 """for variavel in range(1, 11):
     print(variavel)"""
 
