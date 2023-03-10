@@ -15,7 +15,6 @@ max()   # - Retorna o maior valor da lista"""
 
 from __future__ import print_function
 
-
 def saudacao():
     print('Seja bem-vindo(a)')
     print('Olá, é um prazer ter você fazendo parte desse curso')
