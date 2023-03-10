@@ -20,5 +20,4 @@ for entradas in range(0,4):
 
         soma = soma + nota
      
-
 print(soma / 3)
