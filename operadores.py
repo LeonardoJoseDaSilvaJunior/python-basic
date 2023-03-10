@@ -8,7 +8,7 @@
     - Divisão inteira: //
     - Resto da divisão: %
     - potências: **
-"""
+""" 
 
 numero1 = 10
 numero2 = 20
