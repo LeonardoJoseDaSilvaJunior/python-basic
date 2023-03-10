@@ -1,4 +1,4 @@
-# cnversão de tipos
+# conversão de tipos
 
 idade = '26'
 
