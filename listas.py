@@ -27,7 +27,6 @@ print (lista[3])
 # -1 = ultimo elemento da lista, -2 penultimo e etc..
 print(lista[-1])
 
-
 # Slices
 
 lista = [10, 50, 30, 40, 25, 60, 5]
