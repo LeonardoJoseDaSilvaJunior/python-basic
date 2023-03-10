@@ -1,4 +1,3 @@
-
 # > DICIONÁRIOS
 
 #Criando dicionários
